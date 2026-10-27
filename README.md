@@ -1,5 +1,5 @@
 This repository should contain a reference replay for all in-logic strategies for the Impossible Spellcard implementation for Archipelago.
-Current progress: 38/75.
+Current progress: 47/75.
 
 Replay filenames will take the following form:
  * 1st character: day of replay (A for 10)
